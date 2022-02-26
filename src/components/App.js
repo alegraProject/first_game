@@ -6,53 +6,85 @@ import brain from '../TheWorld.png'
 
 const CARD_ARRAY = [
   {
-    name: 'fries',
-    img: '/images/fries.png'
+    name: 'BornAgainKanye',
+    img: '/images/BornAgainKanye.png'
   },
   {
-    name: 'cheeseburger',
-    img: '/images/cheeseburger.png'
+    name: 'CLB Drake',
+    img: '/images/DrakeCLB.png'
   },
   {
-    name: 'ice-cream',
-    img: '/images/ice-cream.png'
+    name: 'DrakeOVOXO',
+    img: '/images/DrakeOVOXO.png'
   },
   {
-    name: 'pizza',
-    img: '/images/pizza.png'
+    name: 'DropOutKanye',
+    img: '/images/DropOutKanye.png'
   },
   {
-    name: 'milkshake',
-    img: '/images/milkshake.png'
+    name: 'Eminem',
+    img: '/images/Eminem.png'
   },
   {
-    name: 'hotdog',
-    img: '/images/hotdog.png'
+    name: 'H.O.V edition Jay-Z',
+    img: '/images/H.O.V Jay-Z.png'
   },
   {
-    name: 'fries',
-    img: '/images/fries.png'
+    name: 'Jay-Z',
+    img: '/images/Jay-Z.png'
   },
   {
-    name: 'cheeseburger',
-    img: '/images/cheeseburger.png'
+    name: 'SlimShady',
+    img: '/images/SlimShady.png'
   },
   {
-    name: 'ice-cream',
-    img: '/images/ice-cream.png'
+    name: 'TunechiLilWayne',
+    img: '/images/TunechiLilWayne.png'
   },
   {
-    name: 'pizza',
-    img: '/images/pizza.png'
+    name: 'YoungWheezyLilWayne',
+    img: '/images/YoungWheezyLilWayne.png'
   },
   {
-    name: 'milkshake',
-    img: '/images/milkshake.png'
+    name: 'BornAgainKanye',
+    img: '/images/BornAgainKanye.png'
   },
   {
-    name: 'hotdog',
-    img: '/images/hotdog.png'
-  }
+    name: 'CLB Drake',
+    img: '/images/DrakeCLB.png'
+  },
+  {
+    name: 'DrakeOVOXO',
+    img: '/images/DrakeOVOXO.png'
+  },
+  {
+    name: 'DropOutKanye',
+    img: '/images/DropOutKanye.png'
+  },
+  {
+    name: 'Eminem',
+    img: '/images/Eminem.png'
+  },
+  {
+    name: 'H.O.V edition Jay-Z',
+    img: '/images/H.O.V Jay-Z.png'
+  },
+  {
+    name: 'Jay-Z',
+    img: '/images/Jay-Z.png'
+  },
+  {
+    name: 'SlimShady',
+    img: '/images/SlimShady.png'
+  },
+  {
+    name: 'TunechiLilWayne',
+    img: '/images/TunechiLilWayne.png'
+  },
+  {
+    name: 'YoungWheezyLilWayne',
+    img: '/images/YoungWheezyLilWayne.png'
+  },
 ]
 
 class App extends Component {
